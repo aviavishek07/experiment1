@@ -1,0 +1,4 @@
+Know difference between
+ /folder5/
+folder5/
+folder4/folder5/
